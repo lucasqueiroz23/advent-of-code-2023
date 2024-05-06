@@ -1,1 +1,2 @@
 - compiling: rustc file.rs
+- rust files should be on lower snake case
